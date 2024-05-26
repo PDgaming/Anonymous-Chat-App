@@ -60,6 +60,7 @@
 <div class="chatLog">
   <h1>
     This is a totally anonymous chat, you can talk about whatever you want!!
+    Just don't say/do anything illegal.
   </h1>
   {#each messages as message}
     <h2>{message}</h2>
